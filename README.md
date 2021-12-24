@@ -1,1 +1,1 @@
-# -Digital-image-processing_Course-Project
+# Digital-image-processing_Course-Project
